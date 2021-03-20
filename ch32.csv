@@ -1,0 +1,10 @@
+machine,worker,yield
+m1,worker1,25
+m2,worker1,20
+m3,worker1,21
+m1,worker4,28
+m2,worker4,22
+m3,worker4,19
+m1,worker8,22
+m2,worker8,18
+m3,worker8,23

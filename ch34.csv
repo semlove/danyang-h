@@ -1,0 +1,17 @@
+Customer,Product,Attention,Purchase
+Ex-customer,P1,1,3
+Ex-customer,P1,2,1
+Ex-customer,P1,2,3
+Ex-customer,P1,3,2
+Ex-customer,P2,3,4
+Ex-customer,P2,4,3
+Ex-customer,P2,4,5
+Ex-customer,P2,5,5
+Customer,P1,4,7
+Customer,P1,5,6
+Customer,P1,5,7
+Customer,P1,6,7
+Customer,P2,6,7
+Customer,P2,7,8
+Customer,P2,7,7
+Customer,P2,8,6
